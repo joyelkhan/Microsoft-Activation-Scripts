@@ -81,3 +81,6 @@ If you're looking to activate unsupported products, such as **Office for Mac**, 
 By using **MAS**, you're unlocking a free, open-source solution for managing your **Windows** and **Office** activations efficiently!
 
 ---
+
+![](https://massgrave.dev/assets/images/MAS_AIO-9d6246aeb4168a929934d141ee3062f6.png)
+
